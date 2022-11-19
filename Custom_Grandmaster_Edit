@@ -45,7 +45,7 @@ local PASettings = {
         },
         SprintAnimation = {
             SprintingEnabled = false,
-            Key = "Shift",
+            Key = "shift",
             SprintSpeed = nil,
             AnimationID = nil,
             FrameSpeed = math.huge,
